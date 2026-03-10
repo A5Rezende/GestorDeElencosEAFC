@@ -83,10 +83,13 @@ Certifique-se de que o MongoDB esteja rodando localmente.
 
 Exemplo de conexão:
 
+```text
 mongodb://localhost:27017/gestor_elencos
+```
 5️⃣ Iniciar o servidor
+```text
 node app.js
-
+```
 Depois disso, acesse:
 
 http://localhost:3000
