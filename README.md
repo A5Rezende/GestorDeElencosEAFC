@@ -102,13 +102,10 @@ http://localhost:3000
 
 Este projeto foi desenvolvido com o objetivo de praticar desenvolvimento full stack com Node.js, incluindo:
 
-Estruturação de aplicações backend com Express
-
-Modelagem de dados com MongoDB
-
-Integração entre backend e frontend
-
-Criação de interfaces simples para gerenciamento de dados
+- Estruturação de aplicações backend com Express
+- Modelagem de dados com MongoDB
+- Integração entre backend e frontend
+- Criação de interfaces simples para gerenciamento de dados
 
 # 👨‍💻 Autor
 
@@ -142,7 +139,7 @@ MySQL
 
 MongoDB
 
-#⭐ Considerações Finais
+# ⭐ Considerações Finais
 
 Este projeto faz parte do meu portfólio pessoal e foi desenvolvido como forma de praticar desenvolvimento web com Node.js e MongoDB, além de aplicar conceitos de organização de dados e criação de interfaces para gerenciamento de informações.
 
