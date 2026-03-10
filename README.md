@@ -1,5 +1,60 @@
-Gestor de Elencos feito para o jogo EAFC.
-Neste projeto é possivel cadastrar seus jogadores, tanto do seu elenco quanto de sua base, além de jogadores que você tem interesse em contratar.
+# ⚽ Gestor de Elencos EAFC
 
-Projeto em JavaScript utilizando um banco MongoDB, além disso o frontend foi desenvolvido em HTML/CSS utilizando o Bootstrap como FrameWork.
-Desenvolvido e testado em servidor local.
+Sistema web para **gerenciamento de elencos de futebol no EA Sports FC**, permitindo organizar jogadores, montar equipes e visualizar informações do elenco de forma simples e rápida.
+
+O projeto foi desenvolvido como uma aplicação web utilizando **Node.js e MongoDB**, com interface construída em **HTML, CSS, Bootstrap e JavaScript**.
+
+---
+
+# 🚀 Funcionalidades
+
+### 👥 Gestão de Jogadores
+
+- Cadastro de jogadores
+- Edição de informações
+- Remoção de jogadores
+- Listagem completa do elenco
+
+### 📋 Organização de Elencos
+
+- Visualização do elenco cadastrado
+- Organização dos jogadores por posição
+- Controle dos jogadores disponíveis
+
+### 🔎 Interface Simples e Intuitiva
+
+- Layout responsivo com Bootstrap
+- Navegação simples para gerenciamento do elenco
+- Interface pensada para uso rápido durante montagem ou organização do time
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+### Backend
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+---
+
+# 📁 Estrutura do Projeto
+
+```text
+GESTORDEELENCOSEAFc/
+│
+├── models/
+├── routes/
+├── views/
+├── public/
+│
+├── app.js
+├── package.json
+└── README.md
