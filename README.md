@@ -100,7 +100,7 @@ http://localhost:3000
 ```
 # 🎯 Objetivo do Projeto
 
-Este projeto foi desenvolvido com o objetivo de praticar desenvolvimento full stack com Node.js, incluindo:
+Este projeto foi desenvolvido com o objetivo de **praticar desenvolvimento full stack com Node.js**, incluindo:
 
 - Estruturação de aplicações backend com Express
 - Modelagem de dados com MongoDB
@@ -109,11 +109,11 @@ Este projeto foi desenvolvido com o objetivo de praticar desenvolvimento full st
 
 # 👨‍💻 Autor
 
-Antônio Gabriel Cardoso de Rezende Orlandini
+**Antônio Gabriel Cardoso de Rezende Orlandini**
 
 Desenvolvedor Full Stack
 
-Stack principal:
+**Stack principal:**
 
 Backend
 
