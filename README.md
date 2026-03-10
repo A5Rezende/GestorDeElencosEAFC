@@ -91,9 +91,9 @@ mongodb://localhost:27017/gestor_elencos
 node app.js
 ```
 Depois disso, acesse:
-
+```text
 http://localhost:3000
-
+```
 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar desenvolvimento full stack com Node.js, incluindo:
