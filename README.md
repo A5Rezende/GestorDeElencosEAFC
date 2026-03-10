@@ -64,23 +64,23 @@ GESTORDEELENCOSEAFC/
 
 ---
 
-#⚙️ Como Rodar o Projeto
-###1️⃣ Clonar o repositório
+# ⚙️ Como Rodar o Projeto
+### 1️⃣ Clonar o repositório
 ```text
 git clone https://github.com/A5Rezende/GestorDeElencosEAFC
 ```
 
-###2️⃣ Entrar na pasta do projeto
+### 2️⃣ Entrar na pasta do projeto
 ```text
 cd GestorDeElencosEAFC
 ```
 
-###3️⃣ Instalar as dependências
+### 3️⃣ Instalar as dependências
 ```text
 npm install
 ```
 
-###4️⃣ Configurar o MongoDB
+### 4️⃣ Configurar o MongoDB
 
 Certifique-se de que o MongoDB esteja rodando localmente.
 
@@ -90,7 +90,7 @@ Exemplo de conexão:
 mongodb://localhost:27017/gestor_elencos
 ```
 
-###5️⃣ Iniciar o servidor
+### 5️⃣ Iniciar o servidor
 ```text
 node app.js
 ```
@@ -98,7 +98,7 @@ Depois disso, acesse:
 ```text
 http://localhost:3000
 ```
-#🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar desenvolvimento full stack com Node.js, incluindo:
 
@@ -110,7 +110,7 @@ Integração entre backend e frontend
 
 Criação de interfaces simples para gerenciamento de dados
 
-#👨‍💻 Autor
+# 👨‍💻 Autor
 
 Antônio Gabriel Cardoso de Rezende Orlandini
 
