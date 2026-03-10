@@ -117,27 +117,21 @@ Stack principal:
 
 Backend
 
-PHP (Laravel)
-
-Python (Django)
-
-Node.js
+- PHP (Laravel)
+- Python (Django)
+- Node.js
 
 Frontend
 
-JavaScript
-
-React
-
-Bootstrap
+- JavaScript
+- React
+- Bootstrap
 
 Banco de Dados
 
-PostgreSQL
-
-MySQL
-
-MongoDB
+- PostgreSQL
+- MySQL
+- MongoDB
 
 # ⭐ Considerações Finais
 
