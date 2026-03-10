@@ -60,18 +60,23 @@ GESTORDEELENCOSEAFC/
 ├── routes.json
 ├── server.json
 └── README.md
-
 ```
 
 ---
 
 ⚙️ Como Rodar o Projeto
 1️⃣ Clonar o repositório
+```text
 git clone https://github.com/A5Rezende/GestorDeElencosEAFC
+```
 2️⃣ Entrar na pasta do projeto
+```text
 cd GestorDeElencosEAFC
+```
 3️⃣ Instalar as dependências
+```text
 npm install
+```
 4️⃣ Configurar o MongoDB
 
 Certifique-se de que o MongoDB esteja rodando localmente.
