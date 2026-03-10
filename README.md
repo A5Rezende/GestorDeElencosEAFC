@@ -48,13 +48,15 @@ O projeto foi desenvolvido como uma aplicação web utilizando **Node.js e Mongo
 # 📁 Estrutura do Projeto
 
 ```text
-GESTORDEELENCOSEAFc/
+GESTORDEELENCOSEAFC/
 │
-├── models/
-├── routes/
-├── views/
+├── frontend/
 ├── public/
+├── src/
 │
-├── app.js
+├── .gitignore
+├── package-lock.json
 ├── package.json
+├── routes.json
+├── server.json
 └── README.md
